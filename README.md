@@ -1,6 +1,6 @@
 You can use my model or train your own model of your voice then run in replit 
 
-'''
+```
 <div>Teachable Machine Audio Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="label-container"></div>
@@ -60,4 +60,4 @@ You can use my model or train your own model of your voice then run in replit
     }
 </script>
 
-'''
+```
